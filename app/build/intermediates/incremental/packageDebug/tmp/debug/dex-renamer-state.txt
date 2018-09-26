@@ -1,0 +1,7 @@
+#Wed Sep 26 12:33:57 IRST 2018
+base.0=D\:\\Android Projects\\s\\codecanyon-6512720-universal-full-multipurpose-android-app\\Template\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=D\:\\Android Projects\\s\\codecanyon-6512720-universal-full-multipurpose-android-app\\Template\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
