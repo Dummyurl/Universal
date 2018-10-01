@@ -29,9 +29,9 @@
     <string name="flickr_key"></string>
     <string name="tumblr_key"></string>
 
-    <string name="woocommerce_consumer_key"></string>
-    <string name="woocommerce_consumer_secret"></string>
-    <string name="woocommerce_url"></string>
+    <string name="woocommerce_consumer_key">ck_74da2ad7dc21027d9713199ca79fed52153cfae1</string>
+    <string name="woocommerce_consumer_secret">cs_1af5782ad4e7702450a51c3bed84ce99153e5f9a</string>
+    <string name="woocommerce_url">http://blackd.ir/shop</string>
 
     <string name="onesignal_app_id"></string>
     <string name="onesignal_google_project_number"></string>

@@ -140,6 +140,18 @@
     {
         "group": "com.google.firebase",
         "version": "15.0.0",
+        "fileLocation": "C:\\Users\\Armin\\.gradle\\caches\\modules-2\\files-2.1\\com.google.firebase\\firebase-core\\15.0.0\\639bbaea2f0f2eb6ca6c008dea7c5fc83ec5d055\\firebase-core-15.0.0.aar",
+        "name": "firebase-core"
+    },
+    {
+        "group": "com.google.firebase",
+        "version": "15.0.0",
+        "fileLocation": "C:\\Users\\Armin\\.gradle\\caches\\modules-2\\files-2.1\\com.google.firebase\\firebase-analytics\\15.0.0\\de2b415d37eefa218d3b4bc23e036cf9386fc453\\firebase-analytics-15.0.0.aar",
+        "name": "firebase-analytics"
+    },
+    {
+        "group": "com.google.firebase",
+        "version": "15.0.0",
         "fileLocation": "C:\\Users\\Armin\\.gradle\\caches\\modules-2\\files-2.1\\com.google.firebase\\firebase-analytics-impl\\15.0.0\\41220112566a2b8c0fd61ba85c97dccd5e832de6\\firebase-analytics-impl-15.0.0.aar",
         "name": "firebase-analytics-impl"
     },

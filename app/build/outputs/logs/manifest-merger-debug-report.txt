@@ -47,6 +47,8 @@ MERGED from [com.google.firebase:firebase-messaging:15.0.0] C:\Users\Armin\.grad
 MERGED from [com.google.android.gms:play-services-location:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\play-services-location-15.0.0.aar\d218a41bbc3e6be69e9199e2994d00ca\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-iid:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\play-services-iid-15.0.0.aar\498a894e0bc323f2786b13eff31eebe7\AndroidManifest.xml:17:1-28:12
 MERGED from [com.google.android.gms:play-services-base:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.0.aar\00fae4f5dc2905fc991ccb4f94b59fa9\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-core:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-core-15.0.0.aar\9a1d7220f25ce70852c3460f2b197d34\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-analytics:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.0.aar\9842af3dd073e9d6ddea017ef8825d5e\AndroidManifest.xml:17:1-55:12
 MERGED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\9541d275a2f4a8a064dfdb3668a1bbb6\AndroidManifest.xml:17:1-41:12
 MERGED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\b4e2b6057ff6658ff7c5e703db54f436\AndroidManifest.xml:17:1-59:12
 MERGED from [com.google.android.gms:play-services-stats:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.0.aar\7a669a4ce37717b012f4f651fd397554\AndroidManifest.xml:2:1-9:12
@@ -109,6 +111,8 @@ MERGED from [com.onesignal:OneSignal:3.10.1] C:\Users\Armin\.gradle\caches\trans
 MERGED from [com.onesignal:OneSignal:3.10.1] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\OneSignal-3.10.1.aar\763bab2b354e30bea4788d423df21b83\AndroidManifest.xml:25:5-79
 MERGED from [com.google.android.gms:play-services-maps:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.0.aar\42483becd748a5ef4695a7afdc2a9949\AndroidManifest.xml:23:5-79
 MERGED from [com.google.android.gms:play-services-maps:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.0.aar\42483becd748a5ef4695a7afdc2a9949\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.0.aar\9842af3dd073e9d6ddea017ef8825d5e\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.0.aar\9842af3dd073e9d6ddea017ef8825d5e\AndroidManifest.xml:24:5-79
 MERGED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\9541d275a2f4a8a064dfdb3668a1bbb6\AndroidManifest.xml:24:5-79
 MERGED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\9541d275a2f4a8a064dfdb3668a1bbb6\AndroidManifest.xml:24:5-79
 MERGED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\b4e2b6057ff6658ff7c5e703db54f436\AndroidManifest.xml:22:5-79
@@ -127,6 +131,8 @@ MERGED from [com.google.android.gms:play-services-maps:15.0.0] C:\Users\Armin\.g
 MERGED from [com.google.android.gms:play-services-maps:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.0.aar\42483becd748a5ef4695a7afdc2a9949\AndroidManifest.xml:24:5-67
 MERGED from [com.google.android.gms:play-services-iid:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\play-services-iid-15.0.0.aar\498a894e0bc323f2786b13eff31eebe7\AndroidManifest.xml:24:5-67
 MERGED from [com.google.android.gms:play-services-iid:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\play-services-iid-15.0.0.aar\498a894e0bc323f2786b13eff31eebe7\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.0.aar\9842af3dd073e9d6ddea017ef8825d5e\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.0.aar\9842af3dd073e9d6ddea017ef8825d5e\AndroidManifest.xml:23:5-67
 MERGED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\9541d275a2f4a8a064dfdb3668a1bbb6\AndroidManifest.xml:23:5-67
 MERGED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\9541d275a2f4a8a064dfdb3668a1bbb6\AndroidManifest.xml:23:5-67
 MERGED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\b4e2b6057ff6658ff7c5e703db54f436\AndroidManifest.xml:23:5-67
@@ -147,6 +153,8 @@ uses-permission#android.permission.WAKE_LOCK
 ADDED from D:\Android Projects\s\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:17:5-68
 MERGED from [com.onesignal:OneSignal:3.10.1] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\OneSignal-3.10.1.aar\763bab2b354e30bea4788d423df21b83\AndroidManifest.xml:19:5-68
 MERGED from [com.onesignal:OneSignal:3.10.1] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\OneSignal-3.10.1.aar\763bab2b354e30bea4788d423df21b83\AndroidManifest.xml:19:5-68
+MERGED from [com.google.firebase:firebase-analytics:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.0.aar\9842af3dd073e9d6ddea017ef8825d5e\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.0.aar\9842af3dd073e9d6ddea017ef8825d5e\AndroidManifest.xml:25:5-68
 MERGED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\9541d275a2f4a8a064dfdb3668a1bbb6\AndroidManifest.xml:25:5-68
 MERGED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\9541d275a2f4a8a064dfdb3668a1bbb6\AndroidManifest.xml:25:5-68
 MERGED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\b4e2b6057ff6658ff7c5e703db54f436\AndroidManifest.xml:24:5-68
@@ -211,6 +219,10 @@ MERGED from [com.google.android.gms:play-services-iid:15.0.0] C:\Users\Armin\.gr
 MERGED from [com.google.android.gms:play-services-iid:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\play-services-iid-15.0.0.aar\498a894e0bc323f2786b13eff31eebe7\AndroidManifest.xml:26:5-20
 MERGED from [com.google.android.gms:play-services-base:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.0.aar\00fae4f5dc2905fc991ccb4f94b59fa9\AndroidManifest.xml:22:5-27:19
 MERGED from [com.google.android.gms:play-services-base:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.0.aar\00fae4f5dc2905fc991ccb4f94b59fa9\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-core:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-core-15.0.0.aar\9a1d7220f25ce70852c3460f2b197d34\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-core-15.0.0.aar\9a1d7220f25ce70852c3460f2b197d34\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.0.aar\9842af3dd073e9d6ddea017ef8825d5e\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.0.aar\9842af3dd073e9d6ddea017ef8825d5e\AndroidManifest.xml:28:5-53:19
 MERGED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\9541d275a2f4a8a064dfdb3668a1bbb6\AndroidManifest.xml:28:5-39:19
 MERGED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\9541d275a2f4a8a064dfdb3668a1bbb6\AndroidManifest.xml:28:5-39:19
 MERGED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\b4e2b6057ff6658ff7c5e703db54f436\AndroidManifest.xml:34:5-57:19
@@ -479,6 +491,10 @@ MERGED from [com.google.android.gms:play-services-iid:15.0.0] C:\Users\Armin\.gr
 MERGED from [com.google.android.gms:play-services-iid:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\play-services-iid-15.0.0.aar\498a894e0bc323f2786b13eff31eebe7\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-base:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.0.aar\00fae4f5dc2905fc991ccb4f94b59fa9\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-base:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.0.aar\00fae4f5dc2905fc991ccb4f94b59fa9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-core-15.0.0.aar\9a1d7220f25ce70852c3460f2b197d34\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-core-15.0.0.aar\9a1d7220f25ce70852c3460f2b197d34\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.0.aar\9842af3dd073e9d6ddea017ef8825d5e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.0.aar\9842af3dd073e9d6ddea017ef8825d5e\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\9541d275a2f4a8a064dfdb3668a1bbb6\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\9541d275a2f4a8a064dfdb3668a1bbb6\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\b4e2b6057ff6658ff7c5e703db54f436\AndroidManifest.xml:20:5-44
@@ -818,25 +834,57 @@ ADDED from [com.google.android.gms:play-services-base:15.0.0] C:\Users\Armin\.gr
 	android:name
 		ADDED from [com.google.android.gms:play-services-base:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.0.aar\00fae4f5dc2905fc991ccb4f94b59fa9\AndroidManifest.xml:24:13-79
 uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
-ADDED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\9541d275a2f4a8a064dfdb3668a1bbb6\AndroidManifest.xml:26:5-110
+ADDED from [com.google.firebase:firebase-analytics:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.0.aar\9842af3dd073e9d6ddea017ef8825d5e\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\9541d275a2f4a8a064dfdb3668a1bbb6\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\9541d275a2f4a8a064dfdb3668a1bbb6\AndroidManifest.xml:26:5-110
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\9541d275a2f4a8a064dfdb3668a1bbb6\AndroidManifest.xml:26:22-107
+		ADDED from [com.google.firebase:firebase-analytics:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.0.aar\9842af3dd073e9d6ddea017ef8825d5e\AndroidManifest.xml:26:22-107
 receiver#com.google.android.gms.measurement.AppMeasurementReceiver
-ADDED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\9541d275a2f4a8a064dfdb3668a1bbb6\AndroidManifest.xml:29:9-33:20
+ADDED from [com.google.firebase:firebase-analytics:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.0.aar\9842af3dd073e9d6ddea017ef8825d5e\AndroidManifest.xml:29:9-33:20
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\9541d275a2f4a8a064dfdb3668a1bbb6\AndroidManifest.xml:29:9-33:20
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\9541d275a2f4a8a064dfdb3668a1bbb6\AndroidManifest.xml:29:9-33:20
 	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\9541d275a2f4a8a064dfdb3668a1bbb6\AndroidManifest.xml:31:13-35
+		ADDED from [com.google.firebase:firebase-analytics:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.0.aar\9842af3dd073e9d6ddea017ef8825d5e\AndroidManifest.xml:31:13-35
 	android:exported
-		ADDED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\9541d275a2f4a8a064dfdb3668a1bbb6\AndroidManifest.xml:32:13-37
+		ADDED from [com.google.firebase:firebase-analytics:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.0.aar\9842af3dd073e9d6ddea017ef8825d5e\AndroidManifest.xml:32:13-37
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\9541d275a2f4a8a064dfdb3668a1bbb6\AndroidManifest.xml:30:13-85
+		ADDED from [com.google.firebase:firebase-analytics:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.0.aar\9842af3dd073e9d6ddea017ef8825d5e\AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.0.aar\9842af3dd073e9d6ddea017ef8825d5e\AndroidManifest.xml:34:9-42:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.0.aar\9842af3dd073e9d6ddea017ef8825d5e\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.0.aar\9842af3dd073e9d6ddea017ef8825d5e\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.0.aar\9842af3dd073e9d6ddea017ef8825d5e\AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.0.aar\9842af3dd073e9d6ddea017ef8825d5e\AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.0.aar\9842af3dd073e9d6ddea017ef8825d5e\AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.0.aar\9842af3dd073e9d6ddea017ef8825d5e\AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.0.aar\9842af3dd073e9d6ddea017ef8825d5e\AndroidManifest.xml:40:25-76
 service#com.google.android.gms.measurement.AppMeasurementService
-ADDED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\9541d275a2f4a8a064dfdb3668a1bbb6\AndroidManifest.xml:35:9-38:40
+ADDED from [com.google.firebase:firebase-analytics:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.0.aar\9842af3dd073e9d6ddea017ef8825d5e\AndroidManifest.xml:44:9-47:40
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\9541d275a2f4a8a064dfdb3668a1bbb6\AndroidManifest.xml:35:9-38:40
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\9541d275a2f4a8a064dfdb3668a1bbb6\AndroidManifest.xml:35:9-38:40
 	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\9541d275a2f4a8a064dfdb3668a1bbb6\AndroidManifest.xml:37:13-35
+		ADDED from [com.google.firebase:firebase-analytics:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.0.aar\9842af3dd073e9d6ddea017ef8825d5e\AndroidManifest.xml:46:13-35
 	android:exported
-		ADDED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\9541d275a2f4a8a064dfdb3668a1bbb6\AndroidManifest.xml:38:13-37
+		ADDED from [com.google.firebase:firebase-analytics:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.0.aar\9842af3dd073e9d6ddea017ef8825d5e\AndroidManifest.xml:47:13-37
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\9541d275a2f4a8a064dfdb3668a1bbb6\AndroidManifest.xml:36:13-84
+		ADDED from [com.google.firebase:firebase-analytics:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.0.aar\9842af3dd073e9d6ddea017ef8825d5e\AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.0.aar\9842af3dd073e9d6ddea017ef8825d5e\AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.0.aar\9842af3dd073e9d6ddea017ef8825d5e\AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.0.aar\9842af3dd073e9d6ddea017ef8825d5e\AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.0.aar\9842af3dd073e9d6ddea017ef8825d5e\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.0.aar\9842af3dd073e9d6ddea017ef8825d5e\AndroidManifest.xml:49:13-87
 receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
 ADDED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Armin\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\b4e2b6057ff6658ff7c5e703db54f436\AndroidManifest.xml:35:9-44:20
 	android:exported

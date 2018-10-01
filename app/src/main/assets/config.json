@@ -9,7 +9,7 @@
         "title":"Recent",
         "provider":"wordpress",
         "arguments":[
-          "en.blog.wordpress.com"
+          "https://blackd.ir/wp-json/wp/v2/"
         ]
       },
       {
